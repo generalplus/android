@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch=".." name="origin"/>
-
+  
   <default remote="origin" revision="gingerbread"/>
-
+  
   <project name="device/common"/>
   <project name="device/gplus">
     <copyfile dest="buildspec.mk" src="buildspec.mk.default"/>
