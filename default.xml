@@ -2,7 +2,7 @@
 <manifest>
   <remote fetch=".." name="origin"/>
   
-  <default remote="origin" revision="gingerbread"/>
+  <default remote="origin" revision="refs/tags/gingerbread-00001"/>
   
   <project name="device/common"/>
   <project name="device/gplus">
