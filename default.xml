@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch=".." name="gplus"/>
+  <remote fetch=".." name="origin"/>
   
-  <default remote="gplus" revision="ics" sync-j="8"/>
+  <default remote="origin" revision="ics" sync-j="8"/>
   
   <project name="device/common"/>
   <project name="device/generic/goldfish"/>
