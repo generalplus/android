@@ -2,7 +2,7 @@
 <manifest>
   <remote fetch=".." name="origin"/>
   
-  <default remote="origin" revision="ics" sync-j="8"/>
+  <default remote="origin" revision="master" sync-j="8"/>
   
   <project name="device/common"/>
   <project name="device/generic/goldfish"/>
