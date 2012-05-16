@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch=".." name="origin"/>
+  <remote fetch=".." name="gplus"/>
   
-  <default remote="origin" revision="master" sync-j="8"/>
+  <default remote="gplus" revision="ics-v2" sync-j="8"/>
   
   <project name="device/common"/>
   <project name="device/generic/goldfish"/>
@@ -17,6 +17,7 @@
   <project name="device/samsung/crespo4g"/>
   <project name="device/samsung/maguro"/>
   <project name="device/samsung/toro"/>
+  <project name="device/samsung/torospr"/>
   <project name="device/samsung/tuna"/>
   <project name="device/ti/panda"/>
   <project name="gplus"/>
@@ -125,6 +126,7 @@
   <project name="external/qemu"/>
   <project name="external/qemu-pc-bios"/>
   <project name="external/quake"/>
+  <project name="external/replicaisland"/>
   <project name="external/safe-iop"/>
   <project name="external/skia"/>
   <project name="external/sonivox"/>
